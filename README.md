@@ -15,7 +15,7 @@
 </ins>
 </h2>
 <center>
-<img src="/storage/sdcard1/facebook/free.jpg" <width="200" height="200">
+<img src="free.jpg" width="200" height="200">
 </center>
 <center>
 <p> 
