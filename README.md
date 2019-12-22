@@ -62,7 +62,7 @@ To walk this world  without faltering… Yes, this is my madness! <br>
 <li>Technophile</li>
 </ul>
 
-<p style="color:LightSlateGray" >Click <a href="https://https://www.free.facebook.com/victor.zechariah.1?ref_component=mfreebasic_home_header&ref_page=MChatBuddyListController&ref=dbl">here </a> to follow him on Facebook</p>
+<p style="color:LightSlateGray" >Click <a href="https://free.facebook.com/victor.zechariah.1?lst=100011769923165%3A100011769923165%3A1577047932&fref=nf&pn_ref=story&ref_component=mfreebasic_home_header&ref_page=%2Fwap%2Fprofile_timeline.php&refid=17">here </a> to follow him on Facebook</p>
 
 
 
